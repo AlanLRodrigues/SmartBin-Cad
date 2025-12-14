@@ -42,5 +42,5 @@ Project developed as a team by:
 ## 📄 License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
-**Commercial use is not permitted**.
+**Commercial use is not permitted**.  
 See the `LICENSE` file for more details.
