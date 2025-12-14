@@ -19,3 +19,22 @@ It includes the original Autodesk Inventor files, as well as exported versions f
 - [App Repository](https://github.com/AlanLRodrigues/SmartBin-App) – React Native app for monitoring
 - [SmartBin Firmware](https://github.com/AlanLRodrigues/SmartBin-Firmware) – Arduino IDE code for ESP32
 - [Project Presentation on LinkedIn](https://www.linkedin.com/posts/alan-l-rodrigues_autodesk-inovaaexaeto-tecnologia-activity-7368059707657281536-kHms?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEIgUh4Bf1z74_vh6GR_8Xv0OB6i7l0Y3_0) – Overview and development insights shared on LinkedIn
+
+## 👥 Authors
+
+Project developed as a team by:
+
+- **Alan de Lima Rodrigues**  
+  [GitHub](https://github.com/AlanLRodrigues)
+
+- **Daniel Freire de Sousa**  
+  [GitHub]()
+
+- **Guilherme Santos Coelho**  
+  [GitHub]()
+
+- **Miqueias Felipe Marques Quesado**  
+  [GitHub](https://github.com/Mikke7935)
+
+- **Rafael de Oliveira Marins**  
+  [GitHub](https://github.com/RafaelOMarins)
